@@ -1,6 +1,6 @@
-# luma-vue-cli
+# LMS-APRENDER_CREANDO
 
-## Project setup
+## Project setup (CONFIGURACION)
 ```
 npm install
 ```
